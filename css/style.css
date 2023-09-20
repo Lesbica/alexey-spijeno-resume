@@ -1,0 +1,120 @@
+body{
+    background: #F6F6FA;
+    padding: 40px 40px 40px 40px;
+    font-family: 'Montserrat', sans-serif;
+}
+.Wrapper
+{
+    background: white;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.MainContent
+{
+    padding-left: 88px;
+    padding-top: 80px;
+    padding-right: 40px;
+    padding-bottom: 80px;
+    box-sizing: border-box;
+}
+.sidebar
+{
+    background: #E0EBFE;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    width: 370px;
+    box-sizing: border-box;
+}
+.sidebar_content
+{
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-right: 40px;
+    box-sizing: border-box;
+}
+.contacts_title
+{
+    color: #161D2A;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 0;
+    margin-bottom: 8;
+}
+.contacts_type
+{
+    color: #161D2A;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-right: 8px;
+}
+.contacts_link
+{
+    color: #2979FF;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+text-decoration-line: underline;
+}
+.contacts_item
+{
+    margin-bottom: 8px;
+    margin-top: 0px;
+}
+.contacts_container
+{
+    margin-bottom: 40px;
+}
+
+.skills_container
+{
+    margin-bottom: 40px;
+}
+
+.skills_title
+{
+    color: #161D2A;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 0px;
+    margin-bottom: 8px;
+}
+
+.skills_list{
+    padding-left: 18px;
+}
+.skills_list_item
+{
+    color: #161D2A;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.SoftSkills_container
+{
+    margin-bottom: 40px;
+}
+
+.SoftSkills_title
+{
+    color: #161D2A;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 0px;
+    margin-bottom: 8px;
+}
+
+.SoftSkills_list{
+    padding-left: 18px;
+}
+.SoftSkills_list_item
+{
+    color: #161D2A;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
